@@ -1,3 +1,3 @@
 'base':
   '*':
-    - ceph
+    - ceph.ceph
